@@ -3,3 +3,4 @@ plugins:
     host: localhost
     port: 4979
     channel: alerty_test
+    subject: "FATAL: [${hostname}] ${command}" # optional
