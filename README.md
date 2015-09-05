@@ -22,7 +22,7 @@ Or install it yourself as:
 
 * **type**: must be `ikachan`
 * **host**: hostname
-* **port**: port number
+* **port**: port number (default: 4979)
 * **channel**: channel to notify
 * **subject**: (optional) you can post one line of your favorite string. `${hostname}` and `${command}` placeholders are available
 
